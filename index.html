@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>crystal game</title>
+
+ <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Courgette|Shadows+Into+Light" rel="stylesheet">
+ 
+ <style type="text/css">
+ .crystal-image {
+ width: 300px;
+ height: 300px;
+ }
+ .main{
+ background-color: black;
+ }
+ h1{
+ font-family: 'Berkshire Swash', cursive;
+ color: yellow; 
+ font-size: 40px;
+ }
+ #wins{
+ 
+ font-family: 'Courgette', cursive;
+ color: green;
+ font-size: 50px;
+ }
+ #loses{
+ font-family: 'Shadows Into Light', cursive;
+ color: red;
+ font-size: 50px;
+ }
+ </style>
+
+</head>
+<body>
+ <div class="main">
+ <h1>Number to Guess: <span id="guesses"></span></h1>
+	
+	<p id="wins">Win:</p>
+	
+ <p id="loses">Lose:</p>
+
+ <div id="crystals">
+ </div>
+ </div>
+
+
+ 
+ <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+ <script src="assets/javascript/script.js"></script>
+
+ </body>
+</html>
