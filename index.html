@@ -1,54 +1,67 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
+
 <head>
- <title>crystal game</title>
 
- <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Courgette|Shadows+Into+Light" rel="stylesheet">
- 
- <style type="text/css">
- .crystal-image {
- width: 300px;
- height: 300px;
- }
- .main{
- background-color: black;
- }
- h1{
- font-family: 'Berkshire Swash', cursive;
- color: yellow; 
- font-size: 40px;
- }
- #wins{
- 
- font-family: 'Courgette', cursive;
- color: green;
- font-size: 50px;
- }
- #loses{
- font-family: 'Shadows Into Light', cursive;
- color: red;
- font-size: 50px;
- }
- </style>
+	<meta charset="utf-8">
+	<title>Crystal Collector Game</title>
 
+	<!-- reset link -->
+	<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+	<!-- css link -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	
 </head>
 <body>
- <div class="main">
- <h1>Number to Guess: <span id="guesses"></span></h1>
-	
-	<p id="wins">Win:</p>
-	
- <p id="loses">Lose:</p>
-
- <div id="crystals">
- </div>
- </div>
 
 
- 
- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<!-- Jquery link -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
- <script src="assets/javascript/script.js"></script>
 
- </body>
+	<h1><br>Crystal Collector</br></h1>
+
+		<center><div id="result"></div></center>
+
+		<br>
+
+		<div class="crystals">
+			
+		</div>
+
+
+		<br>
+
+		<center><div id="previous"></div></center>
+
+		<br>
+
+
+		<center>
+
+			<div id="win">
+				
+
+		</center>
+
+		<br>
+
+		<center>
+
+			<div id="lose"></div>
+
+		</center>
+
+</div>
+
+	 <div id="footer">©Copyright 2017 Dipisha Patel</div>
+		
+	<!--JS link -->
+	<script type="text/javascript" src="assets/javascript/game.js"></script>
+
+</center>
+
 </html>
+
+</body>
+

@@ -1,0 +1,84 @@
+body{
+	background-image: url('../images/background.jpg');
+	margin: 50px;
+
+}
+
+h1{
+	color: grey;
+	font-size: 60px;
+	font-family: "Georgia", "Georgia", monospace;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	text-align: center;
+	margin: 15px auto;
+	height: 100px;
+	width: 90%;
+}
+
+#result {
+	color: beige;
+	font-size: 30px;
+	font-family: "Georgia", "Georgia", monospace;
+
+}
+
+#previous {
+	color: pink;
+	font-size: 70px;
+	font-family: "Georgia", "Georgia", monospace;
+}
+
+#lose {
+	color: beige;
+	font-size: 20px;
+	font-family: "Georgia", "Georgia", monospace;
+
+}
+
+#win {
+	color: beige;
+	font-size: 20px;
+	font-family: "Georgia", "Georgia", monospace;
+
+}
+
+.score{
+	
+}
+
+.crystals{
+	display: flex;
+	justify-content: space-around; 
+	align-items: center;
+
+}
+
+.crystal{
+	height: 200px;
+	width: 200px;
+	border-radius: 4px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+img{
+	width:50px;
+}
+
+#footer {
+   font-family: "Georgia", "Georgia", monospace;
+   position:absolute;
+   color:grey;
+    width:300px;
+    height:100px;
+    bottom:0px;
+    right:25%;
+    left:15%;
+    margin-left:-150px;
+    top: 90%;
+  
+} 
+   
+}
