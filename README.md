@@ -1,6 +1,6 @@
 # Crystal-Collector-Game 
 
-Created a fun and interactive crystal-skull game that dynamically updates the HTML page using JQuery. 
+Created a fun and interactive crystal-skull game using JQuery logic. 
 
 <b>Technologies used:</b> HTML5 | CSS3 | JQuery 
 
