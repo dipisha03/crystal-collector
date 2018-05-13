@@ -1,4 +1,4 @@
-# Crystal-Collector Game 
+# Crystal-Collector-Game 
 
 Created a fun and interactive crystal-skull game that dynamically updates the HTML page using JQuery. 
 
