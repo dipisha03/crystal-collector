@@ -1,11 +1,12 @@
-# week-4-game
-Crystal-Collector Game 
+# Crystal-Collector Game 
 
-Technologies used: HTML | CSS | JQuery 
+Created a fun and interactive crystal-skull game that dynamically updates the HTML page using JQuery. 
 
-A fun and interactive crystal-skull game that dynamically updates the HTML page using JQuery. 
+<b>Technologies used:</b> HTML5 | CSS3 | JQuery 
 
-Here's how the app works: 
+![Alt text](https://raw.githubusercontent.com/dipisha03/Basic-Portfolio/master/assets/images/portfolio.png "crystals")
+
+<b>Here's how the app works:</b>
 
 	* There are four crystal skulls displayed as buttons on the page.
 
@@ -26,8 +27,7 @@ Here's how the app works:
 
 	* The app should show the number of games you win and lose. To that end, do not refresh the page as a means to restart the game.
 
-Link:
-https://dipisha03.github.io/crystal-collector/
+<b>Link:</b> https://dipisha03.github.io/crystal-collector/
 
 Enjoy!
 
