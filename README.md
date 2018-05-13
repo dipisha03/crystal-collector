@@ -4,7 +4,7 @@ Created a fun and interactive crystal-skull game that dynamically updates the HT
 
 <b>Technologies used:</b> HTML5 | CSS3 | JQuery 
 
-![Alt text](https://raw.githubusercontent.com/dipisha03/Basic-Portfolio/master/assets/images/portfolio.png "crystals")
+![Alt text](https://raw.githubusercontent.com/dipisha03/crystal-collector/master/assets/images/crystals.png "crystals")
 
 <b>Here's how the app works:</b>
 
